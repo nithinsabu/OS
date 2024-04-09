@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "thread": "cpp",
+        "atomic": "cpp",
+        "iostream": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "iosfwd": "cpp"
+    }
+}
